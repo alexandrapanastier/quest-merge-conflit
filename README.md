@@ -1,3 +1,3 @@
-# quest-merge-conflit
+LOCAL
 
 Alors on va avoir un conflit ?
